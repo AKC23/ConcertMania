@@ -17,6 +17,7 @@ This project includes dedicated roles for both admins and users, enhancing manag
 - **Database**: MS SQL
 - **Programming Language & IDE**: Java (NetBeans)
 
+#DatabaseManagement #ConcertManagementSystem #JavaDevelopment #NetBeans #MSSQL #UserExperience #AdminPanel #EventManagement #TicketingSystem #SoftwareDevelopment #JavaApplications #MusicTech #UniversityProjects 
 
 **Entity Relationship (ER) Diagram:**
 
